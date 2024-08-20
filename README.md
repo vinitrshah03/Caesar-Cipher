@@ -1,4 +1,4 @@
-# PRODIGY_CS_01
+# Caesar Cipher
 Caesar Cipher Implementation
 
 This tool can be used to encrypt and decrypt plaintext or cipher text based on user specified message, shift value, and operation type. 
